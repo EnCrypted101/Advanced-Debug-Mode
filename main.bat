@@ -9,7 +9,7 @@ if %errorLevel% neq 0 (
 )
 
 set "title=Advanced Debug Mode V1.0.0"
-set "color=0A"
+set "color=17"
 set "log_file=%cd%\debug_log.txt"
 
 :continue
